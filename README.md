@@ -6,10 +6,10 @@ It is developed and written completely in Java. The application is suitable for 
 
 Java packages used :
 
-   java.awt    - provides components for GUI
-   java.swing  - platform independent lightweight components
-   java.io     - basic system input and output services
-   java.util   - utility classes which provide additional data structures, features and other usable classes
+      java.awt    - provides components for GUI
+      java.swing  - platform independent lightweight components
+      java.io     - basic system input and output services
+      java.util   - utility classes which provide additional data structures, features and other usable classes
    
 Java subpackages used :
    java.awt.event
